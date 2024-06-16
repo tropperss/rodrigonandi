@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+sqlite3
+bcrypt
+pyjwt
+requests
+streamlit_lottie
